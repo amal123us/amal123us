@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amal123us
+- 👀 I’m interested in .Net c#, MVC, Web API
+- 🌱 I’m currently learning React, Node.js, Python
+- 💞️ I’m looking to collaborate on challenging projects!
+- 📫 How to reach me amal123us@gmail.com
